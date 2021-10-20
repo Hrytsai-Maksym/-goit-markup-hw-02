@@ -1,26 +1,42 @@
+.body{
+    background: #E5E5E5;
+    color: #212121;
+}
 /*голова*/
 .header{
     background: #FFFFFF;
     color: #212121;
 }
-/*навигация*/
-.Web_color{
-    color: #2196F3;
-}
-.ul{
-    list-style: none;
-}
-/*main*/
-/*секуия1*/
-/*секция 2*/
-/*секция 3*/
-/*адреса*/
 .Web_color{
     color: #2196F3;
 }
 .Web_color2{
     color: #000000;
 }
+/*навигация*/
+.Web_color{
+    color: #2196F3;
+}
+.site_nav{
+
+}
+.ul{
+    list-style: none;
+}
+
+/*main*/
+.name{
+    background: #2F303A;
+    color: #FFFFFF;
+}
+/*секуия1*/
+/*секция 2*/
+/*секция 3*/
+/*адреса*/
+.Web_color3{
+ color: #FFFFFF;   
+}
+
 /* цвет навигации не активной #212121
  */
 /*  цвет контактов #757575*/
