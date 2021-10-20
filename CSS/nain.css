@@ -16,31 +16,17 @@
 ul{
     list-style: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*навигация*/
 .Web_color{
     color: #2196F3;
 }
-.site_nav{
+/*Navigations*/
+.navig_sait a{
+    color: #212121;
+}
+.navig_sait :hover{
+    color: #2196F3;   
+}
 
-}
-.ul{
-    list-style: none;
-}
 
 /*main*/
 .name{
