@@ -23,6 +23,7 @@ ul{
 .navig_sait a{
     color: #212121;
 }
+navig_sait :focus,
 .navig_sait :hover{
     color: #2196F3;   
 }
