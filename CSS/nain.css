@@ -23,11 +23,17 @@ ul{
 .navig_sait a{
     color: #212121;
 }
-navig_sait :focus,
+.navig_sait :focus,
 .navig_sait :hover{
     color: #2196F3;   
 }
-
+.contakts a{
+    color:  #757575;
+}
+.contakts :focus,
+.contakts :hover{
+    color: #2196F3;
+}
 
 /*main*/
 .name{
