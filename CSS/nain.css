@@ -34,13 +34,18 @@ ul{
 .contakts :hover{
     color: #2196F3;
 }
-
 /*main*/
 .name{
     background: #2F303A;
     color: #FFFFFF;
 }
 /*секуия1*/
+.name{
+
+}
+.name_title,.benefits_title,.orientation_title{
+    color: #212121;
+}
 /*секция 2*/
 /*секция 3*/
 /*адреса*/
