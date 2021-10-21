@@ -2,6 +2,9 @@
     --prymery-text-color: #212121;
 --title-text-color: #212121;
 --accent-color: #2196F3;
+--button-text-color: #FFFFFF;
+--button-background: #2196F3;
+
 }
 .body{
     background: #E5E5E5;
@@ -40,11 +43,17 @@ ul{
     color: #2196F3;
 }
 /*main*/
+
+/*секуия1*/
 .name{
     background: #2F303A;
-    color: #FFFFFF;
+    color: var(--button-text-color)
 }
-/*секуия1*/
+/*кнопка*/
+.button{
+    color: var(--button-text-color);
+    background-color: var(--button-background);
+}
 
 /*секция 2*/
 .section_title{
