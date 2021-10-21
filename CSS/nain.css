@@ -8,7 +8,7 @@
 
 }
 .body{
-    background: #E5E5E5;
+    background: #ffff;
     color: var(--title-text-color)
 }
 /*голова*/
@@ -50,6 +50,9 @@ ul{
     background: #2F303A;
     color: var(--button-text-color)
 }
+.section{
+    background: #FFFFFF;
+}
 /*кнопка*/
 .button{
     color: var(--button-text-color);
@@ -70,6 +73,9 @@ ul{
 
 
 /*секция 3*/
+.section-comand{
+    background: #F5F4FA;
+}
 /*адреса*/
 .Web_color3{
  color: #FFFFFF;   
