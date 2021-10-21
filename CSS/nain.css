@@ -52,7 +52,12 @@ ul{
 }
 .Benefits-list title{
     color: var(--title-text-color)
+    }
+.benefits-clarification{
+    color: #757575;
 }
+
+
 
 /*секция 3*/
 /*адреса*/
