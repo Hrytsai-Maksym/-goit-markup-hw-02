@@ -1,11 +1,16 @@
+:root{
+    --prymery-text-color: #212121;
+--title-text-color: #212121;
+--accent-color: #2196F3;
+}
 .body{
     background: #E5E5E5;
-    color: #212121;
+    color: var(--title-text-color)
 }
 /*голова*/
 .header{
     background: #FFFFFF;
-    color: #212121;
+    color: var(--title-text-color)
 }
 .Web_color{
     color: #2196F3;
@@ -21,11 +26,11 @@ ul{
 }
 /*Navigations*/
 .navig_sait a{
-    color: #212121;
+    color: var(--title-text-color)
 }
 .navig_sait :focus,
 .navig_sait :hover{
-    color: #2196F3;   
+    color: var(--accent-color);   
 }
 .contakts a{
     color:  #757575;
@@ -40,13 +45,15 @@ ul{
     color: #FFFFFF;
 }
 /*секуия1*/
-.name{
 
-}
+/*секция 2*/
 .section_title{
     color: #212121;
 }
-/*секция 2*/
+.Benefits-list title{
+    color: var(--title-text-color)
+}
+
 /*секция 3*/
 /*адреса*/
 .Web_color3{
