@@ -67,17 +67,26 @@ letter-spacing: 0.02em;
 
 /*секуия1*/
 .name{
+    /*геометрия*/
+
+    /*цвет*/
     background: #2F303A;
-    color: var(--button-text-color)
+    color: var(--button-text-color);
+    text-align: center;
+
+    /*динамика*/
 }
 .name_title{
+    /*геометрия*/
+
+    /*цвет*/
     font-weight: 900;
     font-size: 44px;
     line-height: 1,36px;
     /* or 136% */
-    
-    text-align: center;
+        text-align: center;
     color: #FFFFFF;
+    /*динамика*/
 }
 .section{
     background: #FFFFFF;
@@ -90,7 +99,16 @@ letter-spacing: 0.02em;
 
 /*секция 2*/
 .section_title{
-    color: #212121;
+    /*геометрия*/
+
+    /*цвет*/
+ font-weight: 700;
+font-size: 36px;
+line-height: 1,17px;
+text-align: center;
+letter-spacing: 0.03em;
+ color: #212121;
+    /*динамика*/
 }
 .Benefits-list title{
     color: var(--title-text-color)
@@ -102,12 +120,16 @@ letter-spacing: 0.02em;
 
 
 /*секция 3*/
+.footer{
+    background-color:  #2F303A; 
+}
 .section-comand{
     background: #F5F4FA;
 }
 /*адреса*/
 .Web_color3{
- color: #FFFFFF;   
+ color: #FFFFFF;
+   
 }
 
 /* цвет навигации не активной #212121
