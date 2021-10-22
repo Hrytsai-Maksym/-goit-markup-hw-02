@@ -56,12 +56,12 @@ letter-spacing: 0.02em;
 .contakts :hover{
     color: #2196F3;
 }
-.contakts{
-    color:  #ffffff ;
-       font-weight: 500;
+.contakts a{
+    font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14px;
     letter-spacing: 0.02em;
+        color: #757575;
 }
 /*main*/
 
