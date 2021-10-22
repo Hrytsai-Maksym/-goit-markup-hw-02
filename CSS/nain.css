@@ -98,17 +98,25 @@ letter-spacing: 0.02em;
 }
 
 /*секция 2*/
-.section_title{
+.Benefits-list h3{
     /*геометрия*/
 
     /*цвет*/
- font-weight: 700;
-font-size: 36px;
-line-height: 1,17px;
-text-align: center;
-letter-spacing: 0.03em;
- color: #212121;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1,42px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+     color: #212121;
     /*динамика*/
+}
+.Benefits-list p{
+font-weight: 400l;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+letter-spacing: 0.03em;
+color: #757575;
 }
 .Benefits-list title{
     color: var(--title-text-color)
@@ -116,10 +124,49 @@ letter-spacing: 0.03em;
 .benefits-clarification{
     color: #757575;
 }
-
-
-
 /*секция 3*/
+.what-we-do{
+    /**/
+    /*Colors*/
+font-weight: bold;
+font-size: 36px;
+line-height: 1.17px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+    /**/
+}
+/*наша команда*/
+.xectoin_title{
+
+font-weight: 700;
+font-size: 36px;
+line-height: 1.17px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+.section-comand h3{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.19px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.section-comand p {
+
+font-weight: 400;
+font-size: 16px;
+line-height: 1.19px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
+}
+/*Footer*/
 .footer{
     background-color:  #2F303A; 
 }
