@@ -10,11 +10,17 @@
 .body{
     background: #ffff;
     color: var(--title-text-color)
+    font-family: Roboto, sans-serif;
 }
 /*голова*/
 .header{
     background: #FFFFFF;
     color: var(--title-text-color)
+}
+/**LOGO**/
+.logo{
+    font-family: Raleway;
+font-style: normal;
 }
 .adress{
     color: #FFFFFF
