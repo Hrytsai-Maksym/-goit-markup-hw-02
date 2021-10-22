@@ -172,13 +172,13 @@ color: #757575;
     background-color:  #2F303A; 
 }
 .logo-fot{
-font-family: Raleway;
-font-style: normal;
-font-weight: 700;
-font-size: 26px;
-line-height: 1.19px;
-/* identical to box height */
-letter-spacing: 0.03em;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19px;
+    /* identical to box height */
+        letter-spacing: 0.03em;
 }
 .adress{
  font-weight: 400;
@@ -202,34 +202,78 @@ color: #FFFFFF;
 /*адреса*/
 .Web_color3{
  color: #FFFFFF;
-   
+  
 }
 
-/* цвет навигации не активной #212121
- */
-/*  цвет контактов #757575*/
-/* цвет заголовка #FFFFFF*/
-/* цвет заголовок преимуществ*/
-/* цвет текста преимуществ*/
-/* цвет загововок секций #212121
-*/
-/* цвет адреса*/
-/*цвет контактов rgba(255, 255, 255, 0.6);*/
-/*цвет выделения активации активности*/
-/*партфолио*/
+
 /*ПАРТФОЛИО*/
+/*Голова*/
+/*секция*/
+/*кнопки*/
 .port-nav :focus,
 .port-nav :hover{
 color: white;
 background: #2196F3;
 }
+.port-nav{
+
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62px;
+/* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+/*картинки*/
 .imagi-partfolio p{
     color: #757575;
 }
+
 .imagi-partfolio h3{
-    font-weight: bold;
+    font-weight: 700;
     font-size: 18px;
     line-height: 2.57px;
     letter-spacing: 0.06em;
     color: #212121;
 }
+.imagi-partfolio p {
+       font-weight: 400;
+    font-size: 16px;
+    line-height: 1.88x;
+    /* identical to box height, or 187% */
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+/*подвал*/
+.footer{
+background-color: #2F303A;
+}
+.logo-fot{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19px;
+    /* identical to box height */
+        letter-spacing: 0.03em;
+}
+.adress-footer{
+ 
+font-weight:400;
+font-size: 14px;
+line-height: 1.71px;
+/* or 171% */
+letter-spacing: 0.03em;
+color: #FFFFFF;
+}
+.contakts-footer{
+font-weight: 400px;
+font-size: 14px;
+line-height: 1.71px;
+/* or 171% */
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
+}
+
