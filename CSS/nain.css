@@ -10,6 +10,10 @@
 .body{
     background:#FFFFFF;
     font-family: Roboto, sans-serif;
+    font-style: normal;
+}
+a{
+    text-decoration: none;
 }
 /*голова*/
 .header{
@@ -63,6 +67,9 @@ letter-spacing: 0.02em;
     line-height: 1.14px;
     letter-spacing: 0.02em;
         color: #757575;
+
+
+      
 }
 /*main*/
 
@@ -81,12 +88,16 @@ letter-spacing: 0.02em;
     /*геометрия*/
 
     /*цвет*/
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 1,36px;
-    /* or 136% */
-        text-align: center;
-    color: #FFFFFF;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1,36px;
+/* or 136% */
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
     /*динамика*/
 }
 .section{
@@ -94,8 +105,18 @@ letter-spacing: 0.02em;
 }
 /*кнопка*/
 .button{
-    color: var(--button-text-color);
-    background-color: var(--button-background);
+color: var(--button-text-color);
+background-color: var(--button-background);
+font-family: Roboto;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 1.88px;
+/* identical to box height, or 187% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
 }
 
 /*секция 2*/
@@ -216,17 +237,21 @@ color: #FFFFFF;
 /*Голова*/
 /*секция*/
 /*кнопки*/
+
+
 .port-nav :focus,
 .port-nav :hover{
 color: white;
 background: #2196F3;
+
 }
 .port-nav{
-
 font-weight: 500;
 font-size: 16px;
 line-height: 1.62px;
 /* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
