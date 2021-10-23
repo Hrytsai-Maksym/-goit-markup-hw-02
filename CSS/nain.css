@@ -191,6 +191,12 @@ color: #FFFFFF;
 .section-comand{
     background: #F5F4FA;
 }
+.section-comand img{
+    width: 270px;
+    height: 260px;
+    left: 215px;
+    top: 1635px;
+}
 .contakts{
      font-weight: normal;
     font-size: 14px;
