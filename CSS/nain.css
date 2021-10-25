@@ -41,9 +41,7 @@ a{
 ul{
     list-style: none;
 }
-.Web_color{
-    color: #2196F3;
-}
+
 /*Navigations*/
 .navig_sait a{
     color: var(--title-text-color);
@@ -87,8 +85,9 @@ letter-spacing: 0.02em;
 .name_title{
     /*геометрия*/
 
+
     /*цвет*/
-    font-family: Roboto;
+       font-family: Roboto;
 font-style: normal;
 font-weight: 900;
 font-size: 44px;
@@ -100,6 +99,7 @@ text-transform: uppercase;
 color: #FFFFFF;
     /*динамика*/
 }
+
 .section{
     background: #FFFFFF;
 }
