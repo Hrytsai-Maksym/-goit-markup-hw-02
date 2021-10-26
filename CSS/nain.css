@@ -251,8 +251,6 @@ letter-spacing: 0.03em;
 /*Голова*/
 /*секция*/
 /*кнопки*/
-
-
 .port-nav :focus,
 .port-nav :hover{
 color: white;
@@ -269,6 +267,21 @@ letter-spacing: 0.03em;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
+width: 128px;
+height: 38px;
+left: 576px;
+top: 174px;
+border-radius: 4px;
+width: 128px;
+height: 38px;
+left: 576px;
+top: 174px;
+/*font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
 }
 /*картинки*/
 
@@ -287,6 +300,7 @@ color: #212121;
     letter-spacing: 0.03em;
     color: #757575;
 }
+
 
 /*подвал*/
 .footer{
