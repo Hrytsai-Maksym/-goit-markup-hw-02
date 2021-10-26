@@ -35,8 +35,11 @@ a{
 .web_color{
     color: #2196F3;
 }
-.web_color-a{
+.web-color-a{
     color: #000000;
+}
+.web_color-b{
+    color: #FFFFFF;
 }
 ul{
     list-style: none;
@@ -132,16 +135,15 @@ border-radius: 4px;
     /*цвет*/
     font-weight: 700;
     font-size: 14px;
-    line-height: 1,42;
+    line-height: 1.42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
      color: #212121;
     /*динамика*/
 }
 .Benefits-list p{
-font-weight: 400l;
 font-size: 14px;
-line-height: 1,71;
+line-height: 1.71;
 /* or 171% */
 letter-spacing: 0.03em;
 color: #757575;
@@ -156,7 +158,7 @@ color: #757575;
 .what-we-do{
     /**/
     /*Colors*/
-font-weight: bold;
+font-weight:700;
 font-size: 36px;
 line-height: 1.17;
 text-align: center;
@@ -185,8 +187,6 @@ letter-spacing: 0.03em;
 color: #212121;
 }
 .section-comand p {
-
-font-weight: 400;
 font-size: 16px;
 line-height: 1.19;
 /* identical to box height */
@@ -198,7 +198,8 @@ color: #757575;
 .footer{
     background-color:  #2F303A; 
 }
-.logo-fot{
+.logo-fot,
+.logo-foot{
     font-family: Raleway;
     font-style: normal;
     font-weight: 700;
@@ -208,7 +209,6 @@ color: #757575;
         letter-spacing: 0.03em;
 }
 .adress{
- font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
 /* or 171% */
@@ -224,18 +224,26 @@ color: #FFFFFF;
     left: 215px;
     top: 1635px;
 }
-.contakts{
-     font-weight: normal;
-    font-size: 14px;
-    line-height: 1,71;
-    /* or 171% */
-    letter-spacing: 0.03em;
-    color: rgba(255, 255, 255, 0.6);
-}
+
 /*адреса*/
 .web-color-b{
  color: #FFFFFF;
   
+}
+.mail,
+.telephone{
+font-size: 14px;
+line-height: 1.71;
+/* or 171% */
+letter-spacing: 0.03em;
+color:  rgba(255, 255, 255, 0.6);
+}
+.adres-foot{
+    font-style: normal;
+font-size: 14px;
+line-height: 1.71;
+/* or 171% */
+letter-spacing: 0.03em;
 }
 
 
@@ -268,13 +276,12 @@ color: #212121;
 .imagi-partfolio h3{
     font-weight: 700;
     font-size: 18px;
-    line-height: 2.57px;
+    line-height: 2;
     letter-spacing: 0.06em;
     color: #212121;
 }
 .imagi-partfolio p {
-       font-weight: 400;
-    font-size: 16px;
+        font-size: 16px;
     line-height: 1.88;
     /* identical to box height, or 187% */
     letter-spacing: 0.03em;
@@ -285,30 +292,35 @@ color: #212121;
 .footer{
 background-color: #2F303A;
 }
-.logo-fot{
+.logo-foot{
     font-family: Raleway;
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
     /* identical to box height */
-        letter-spacing: 0.03em;
-}
+        letter-spacing: 0.03em;}
+   
 .adress-footer{
- 
-font-weight:400;
-font-size: 14px;
+ font-size: 14px;
+ font-style: normal;
 line-height: 1.71;
 /* or 171% */
 letter-spacing: 0.03em;
-color: #FFFFFF;
-}
+    }
+    .adress-footera{
+        color: #FFFFFF;
+    }
+        
+
+
 .contakts-footer{
-font-weight: 400px;
 font-size: 14px;
 line-height: 1.71;
 /* or 171% */
 letter-spacing: 0.03em;
-color: rgba(255, 255, 255, 0.6);
+color: orange;
+
 }
+
 
