@@ -20,7 +20,7 @@ a{
     background: #FFFFFF;
     color: var(--title-text-color);
 }
-/**LOGO**/
+/**logo**/
 .logo{
     font-family: Raleway;
     font-style: normal;
@@ -32,10 +32,10 @@ a{
 }
 
 
-.Web_color{
+.web_color{
     color: #2196F3;
 }
-.Web_color2{
+.web_color-a{
     color: #000000;
 }
 ul{
@@ -194,7 +194,7 @@ text-align: center;
 letter-spacing: 0.03em;
 color: #757575;
 }
-/*Footer*/
+/*footer*/
 .footer{
     background-color:  #2F303A; 
 }
@@ -233,7 +233,7 @@ color: #FFFFFF;
     color: rgba(255, 255, 255, 0.6);
 }
 /*адреса*/
-.Web_color3{
+.web-color-b{
  color: #FFFFFF;
   
 }
