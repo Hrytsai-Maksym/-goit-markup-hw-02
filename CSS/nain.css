@@ -26,7 +26,7 @@ a{
     font-style: normal;
     font-weight:700;
     font-size: 26px;
-    line-height: 1.19px;
+    line-height: 1.19;
     /* identical to box height */
     letter-spacing: 0.03em;
 }
@@ -46,7 +46,7 @@ ul{
     color: var(--title-text-color);
 font-weight: 500;
 font-size: 14px;
-line-height: 1,14px;
+line-height: 1,14;
 letter-spacing: 0.02em;
 }
 .navig_sait :focus,
@@ -61,7 +61,7 @@ letter-spacing: 0.02em;
 .contakts a{
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
         color: #757575;
 
@@ -89,7 +89,7 @@ letter-spacing: 0.02em;
 font-style: normal;
 font-weight: 900;
 font-size: 44px;
-line-height: 1,36px;
+line-height: 1,36;
 /* or 136% */
 text-align: center;
 letter-spacing: 0.06em;
@@ -109,7 +109,7 @@ font-family: Roboto;
 font-style: normal;
 font-weight: 700;
 font-size: 16px;
-line-height: 1.88px;
+line-height: 1.88;
 /* identical to box height, or 187% */
 display: flex;
 align-items: center;
@@ -132,7 +132,7 @@ border-radius: 4px;
     /*цвет*/
     font-weight: 700;
     font-size: 14px;
-    line-height: 1,42px;
+    line-height: 1,42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
      color: #212121;
@@ -141,7 +141,7 @@ border-radius: 4px;
 .Benefits-list p{
 font-weight: 400l;
 font-size: 14px;
-line-height: 24px;
+line-height: 1,71;
 /* or 171% */
 letter-spacing: 0.03em;
 color: #757575;
@@ -158,7 +158,7 @@ color: #757575;
     /*Colors*/
 font-weight: bold;
 font-size: 36px;
-line-height: 1.17px;
+line-height: 1.17;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
@@ -169,7 +169,7 @@ color: #212121;
 
 font-weight: 700;
 font-size: 36px;
-line-height: 1.17px;
+line-height: 1.17;
 text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
@@ -178,7 +178,7 @@ color: #212121;
 .section-comand h3{
 font-weight: 500;
 font-size: 16px;
-line-height: 1.19px;
+line-height: 1.19;
 /* identical to box height */
 text-align: center;
 letter-spacing: 0.03em;
@@ -188,7 +188,7 @@ color: #212121;
 
 font-weight: 400;
 font-size: 16px;
-line-height: 1.19px;
+line-height: 1.19;
 /* identical to box height */
 text-align: center;
 letter-spacing: 0.03em;
@@ -203,14 +203,14 @@ color: #757575;
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.19px;
+    line-height: 1.19;
     /* identical to box height */
         letter-spacing: 0.03em;
 }
 .adress{
  font-weight: 400;
 font-size: 14px;
-line-height: 1.71px;
+line-height: 1.71;
 /* or 171% */
 letter-spacing: 0.03em;
 color: #FFFFFF;
@@ -227,7 +227,7 @@ color: #FFFFFF;
 .contakts{
      font-weight: normal;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1,71;
     /* or 171% */
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
@@ -254,7 +254,7 @@ background: #2196F3;
 .port-nav{
 font-weight: 500;
 font-size: 16px;
-line-height: 1.62px;
+line-height: 1.62;
 /* identical to box height, or 162% */
 text-align: center;
 letter-spacing: 0.03em;
@@ -275,7 +275,7 @@ color: #212121;
 .imagi-partfolio p {
        font-weight: 400;
     font-size: 16px;
-    line-height: 1.88x;
+    line-height: 1.88;
     /* identical to box height, or 187% */
     letter-spacing: 0.03em;
     color: #757575;
@@ -290,7 +290,7 @@ background-color: #2F303A;
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.19px;
+    line-height: 1.19;
     /* identical to box height */
         letter-spacing: 0.03em;
 }
@@ -298,7 +298,7 @@ background-color: #2F303A;
  
 font-weight:400;
 font-size: 14px;
-line-height: 1.71px;
+line-height: 1.71;
 /* or 171% */
 letter-spacing: 0.03em;
 color: #FFFFFF;
@@ -306,7 +306,7 @@ color: #FFFFFF;
 .contakts-footer{
 font-weight: 400px;
 font-size: 14px;
-line-height: 1.71px;
+line-height: 1.71;
 /* or 171% */
 letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
