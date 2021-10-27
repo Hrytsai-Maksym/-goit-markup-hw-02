@@ -5,7 +5,8 @@
 --button-text-color: #FFFFFF;
 --button-background: #2196F3;
 --background-cilir : #FFFFFF;
---
+--color-command-name: #212121;
+--color-command-post: #757575;
 
 }
 .body{
@@ -187,7 +188,7 @@ line-height: 1.19;
 /* identical to box height */
 text-align: center;
 letter-spacing: 0.03em;
-color: #212121;
+color: var(--color-command-name);
 }
 .section-comand p {
 font-size: 16px;
@@ -195,7 +196,7 @@ line-height: 1.19;
 /* identical to box height */
 text-align: center;
 letter-spacing: 0.03em;
-color: #757575;
+color: var(--color-command-post);
 }
 /*footer*/
 .footer{
