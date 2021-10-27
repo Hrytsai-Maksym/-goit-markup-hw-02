@@ -5,6 +5,7 @@
 --button-text-color: #FFFFFF;
 --button-background: #2196F3;
 --background-cilir : #FFFFFF;
+--
 
 }
 .body{
@@ -35,6 +36,7 @@ a{
 .web_color{
     color: #2196F3;
 }
+.web_color-a,
 .web-color-a{
     color: #000000;
 }
@@ -49,7 +51,7 @@ ul{
     color: var(--title-text-color);
 font-weight: 500;
 font-size: 14px;
-line-height: 1,14;
+line-height: 1.14;
 letter-spacing: 0.02em;
 }
 .navig_sait :focus,
@@ -118,6 +120,7 @@ display: flex;
 align-items: center;
 text-align: center;
 letter-spacing: 0.06em;
+
 /*кнопка параметры*/
 
 width: 200px;
